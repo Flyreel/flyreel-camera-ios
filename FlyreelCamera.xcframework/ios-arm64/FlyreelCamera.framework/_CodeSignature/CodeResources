@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		WYfbnq8uuYpcU1em8DKHGSRG6nQ=
+		IDs/mXDd3zIc7B+0++kOPgvchxc=
 		</data>
 		<key>Headers/FlyreelCamera-Swift.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yj57U0XNS+BrRVEbim323ER9ydU=
+		v9uy/L+AmHgjbayN8CGxuaQORaE=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		S4Hgse4dfg44PcvmPwuCBOyNbDA=
+		8nZWRtU3jR6VNOYuL21AliP5xY8=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,15 @@
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WYzfoZQTcjdwhGs+IlqZ8C+0a+w=
+		Ms/H2tI3KGuxNNmHcs+SsnOdeZQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		1rxSjXeFHIAjtgHWdOnpfy2FqHw=
+		</data>
+		<key>mock_video_capture.mp4</key>
+		<data>
+		DmpICTIJt2nRsjaX+1u6iJ84SNs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KV9uYa7CQMshb+1zgwNFg9VbQZ6obiX1dfak7TSxUeY=
+			pt9fGesCxfSEZD2Vd02bFjW3/QRBH8Q5HJPpWAkzkek=
 			</data>
 		</dict>
 		<key>Headers/FlyreelCamera-Swift.h</key>
@@ -72,7 +76,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FpKzYnf/8Ph+klSxmN46y5pv7T3WXRlpXwbE3heXCPM=
+			IdFet1YYaftUDNIPJyPuuqZUn/P/Y621JJ4+DqlUDWM=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -100,7 +104,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WhjT906tK+KHpWF/vgO4hCEr43DLtH0XIsH7D2xPc08=
+			C+l43utmyz7imX9M2PaRqd4KLkSYbVCcTqSFvCEuphs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -108,6 +112,13 @@
 			<key>hash2</key>
 			<data>
 			DOrvKx6N8hklC9BBm88N3ol2j70ERKdemCDU7AAjatc=
+			</data>
+		</dict>
+		<key>mock_video_capture.mp4</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M+4MnRT1Js+NfGSsh8LSfGmaNlrjL3Nsyqnq/A9No9U=
 			</data>
 		</dict>
 	</dict>
