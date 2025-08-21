@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		IDs/mXDd3zIc7B+0++kOPgvchxc=
+		R8zy+NLS2IRSJLaC8YzU1Ye2pLo=
 		</data>
 		<key>Headers/FlyreelCamera-Swift.h</key>
 		<data>
-		HJsPnazkwV4zaKglheSShFGiMZc=
+		0ttsC6nMYJUl4ZMgBaf5cdlE3DM=
 		</data>
 		<key>Headers/flyreel_camera.h</key>
 		<data>
@@ -18,47 +18,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0sna3fFIXp73Ma/TGrFy3F/WEJQ=
+		axHxe2fMGUJE3oNOOMTYskEMu+M=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		41AEk/7hJT0s6NEmrZTgbptcuG0=
+		nlBMaMLiQ5CePVXejrrhQcFU3Xc=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ou7PrgEL5U8yzv6RvIUEVh8aL6E=
+		zvyYMybq58oc17cOqxfu9hsnyUg=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		XbskW0xzw08pWsXZa0GLW3H/U9M=
+		2G5dYYrCfRDAB+umI9VqbylXN9A=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ou7PrgEL5U8yzv6RvIUEVh8aL6E=
+		zvyYMybq58oc17cOqxfu9hsnyUg=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MemJX+qhwtdrIUsCDJz3jvN2DTQ=
+		Wf1jjvzTcg2j8UI6w6Rfu/gTnf4=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		41AEk/7hJT0s6NEmrZTgbptcuG0=
+		nlBMaMLiQ5CePVXejrrhQcFU3Xc=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		3VYj7ZCczy8UoXXKO8J9fpHkNUU=
+		rWEWlbo0kLyQ5ANd0h38Wjhm4FU=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		x/chb3LG8TUWsfS6AG+nUkl2zS8=
+		Kd1pYELm9Rvrgs6QJEDky8oRw+s=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		3VYj7ZCczy8UoXXKO8J9fpHkNUU=
+		rWEWlbo0kLyQ5ANd0h38Wjhm4FU=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TNPrOybHL7U0sN0qrxuAcjfuvTQ=
+		99+nEbnqXTz1ZLpBEXPhb9nsVSc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,14 +75,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pt9fGesCxfSEZD2Vd02bFjW3/QRBH8Q5HJPpWAkzkek=
+			pziRQPtW9+bdvvD9aPn8QC40oxux3UKSZ35T7/hgJ70=
 			</data>
 		</dict>
 		<key>Headers/FlyreelCamera-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ChVihl5gNIOR2Mblh7pJq1JepHVk3JD8QShbY/ZBZUo=
+			j/Xg5pTeEzmISea08ZI8PNHOcpRzrWNwyFOGreuXCa4=
 			</data>
 		</dict>
 		<key>Headers/flyreel_camera.h</key>
@@ -96,70 +96,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zMu/dq/LgzlV3CgW+iBOZk+mR5dqTswi6KcQdyp2Yos=
+			NlfhQLJZfWXjTHWdz3Hd6/ezxvf128nH9fRwapps8N8=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/pujnfSNjQnC8c4X1/cvZQzUpiaYWAX5rDB+1/y5EoQ=
+			JeH8OvX22/HaqxZFg6unx2wAGsZOdKNSwtU6EAsWpxE=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QODX0tAbyD03aVaRKZktUYHeTiy9rddKjP/sKM2K03Q=
+			umcIQEwOW/DXYTT0dpl67E3D0gd8A1RQuGjlAV7Tr1Q=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/pujnfSNjQnC8c4X1/cvZQzUpiaYWAX5rDB+1/y5EoQ=
+			JeH8OvX22/HaqxZFg6unx2wAGsZOdKNSwtU6EAsWpxE=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dNLNBowKA2RG4/+Czc9qrK3HDPnSj1vyTqX1ZYiirMc=
+			xOLe3WrvpSR4lYJbfjUSWpfcaNSRz72ZCVx9iFmrUG8=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zMu/dq/LgzlV3CgW+iBOZk+mR5dqTswi6KcQdyp2Yos=
+			NlfhQLJZfWXjTHWdz3Hd6/ezxvf128nH9fRwapps8N8=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZFZuf6s672rvTKXcmROaRkC7l6MkMZW2HnPnv0k1gE=
+			ZG/xKhGE91ZsUanx5Jj1w2mo3P/E0p0Yyx5AQg1f0RQ=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5nm7Gm5ouMEpQrbWsnlLONjIZjVM3d+TWVAarzGncHE=
+			xq4RJ8JWeVN9jpn4HIE6y6bXo5830CuegOoRmDfp6/k=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZFZuf6s672rvTKXcmROaRkC7l6MkMZW2HnPnv0k1gE=
+			ZG/xKhGE91ZsUanx5Jj1w2mo3P/E0p0Yyx5AQg1f0RQ=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7y9L5Uq0Jke4NbweBy+yRYnLPjt2v3UATrfwW9AUixU=
+			89NE6s7Tma82CB5D5wggwkEMmZ6Nc49dIdVhyBuhOgI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
