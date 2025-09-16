@@ -309,6 +309,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class NSBundle;
 SWIFT_CLASS("_TtC13FlyreelCamera32FlyreelPhotoCameraViewController")
 @interface FlyreelPhotoCameraViewController : UIViewController
+@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
+@property (nonatomic, readonly) BOOL shouldAutorotate;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)loadView;
 - (void)viewDidLoad;
@@ -318,6 +320,8 @@ SWIFT_CLASS("_TtC13FlyreelCamera32FlyreelPhotoCameraViewController")
 
 SWIFT_CLASS("_TtC13FlyreelCamera32FlyreelVideoCameraViewController")
 @interface FlyreelVideoCameraViewController : UIViewController
+@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
+@property (nonatomic, readonly) BOOL shouldAutorotate;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)loadView;
 - (void)viewDidLoad;
@@ -644,6 +648,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @class NSBundle;
 SWIFT_CLASS("_TtC13FlyreelCamera32FlyreelPhotoCameraViewController")
 @interface FlyreelPhotoCameraViewController : UIViewController
+@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
+@property (nonatomic, readonly) BOOL shouldAutorotate;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)loadView;
 - (void)viewDidLoad;
@@ -653,6 +659,8 @@ SWIFT_CLASS("_TtC13FlyreelCamera32FlyreelPhotoCameraViewController")
 
 SWIFT_CLASS("_TtC13FlyreelCamera32FlyreelVideoCameraViewController")
 @interface FlyreelVideoCameraViewController : UIViewController
+@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
+@property (nonatomic, readonly) BOOL shouldAutorotate;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)loadView;
 - (void)viewDidLoad;
