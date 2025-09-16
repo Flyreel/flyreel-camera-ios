@@ -13,13 +13,29 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency final public class FlyreelPhotoCameraViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor @preconcurrency @objc override final public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
+    @objc get
+  }
+  @_Concurrency.MainActor @preconcurrency @objc override final public var shouldAutorotate: Swift.Bool {
+    @objc get
+  }
   @_Concurrency.MainActor @preconcurrency public init?(clientID: Swift.String, completion: @escaping (UIKit.UIImage?) -> Swift.Void, helpTrigger: @escaping (UIKit.UIViewController) -> Swift.Void)
   @_Concurrency.MainActor @preconcurrency @objc override final public func loadView()
   @_Concurrency.MainActor @preconcurrency @objc override final public func viewDidLoad()
-  @_Concurrency.MainActor @preconcurrency @objc override final public func viewDidAppear(_ animated: Swift.Bool)
   @objc deinit
+  @_Concurrency.MainActor @preconcurrency @objc override final public func viewDidAppear(_ animated: Swift.Bool)
 }
+
+
+
+
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency final public class FlyreelVideoCameraViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor @preconcurrency @objc override final public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
+    @objc get
+  }
+  @_Concurrency.MainActor @preconcurrency @objc override final public var shouldAutorotate: Swift.Bool {
+    @objc get
+  }
   @_Concurrency.MainActor @preconcurrency public init?(clientID: Swift.String, completion: @escaping (Foundation.URL?) -> Swift.Void, helpTrigger: @escaping (UIKit.UIViewController) -> Swift.Void)
   @_Concurrency.MainActor @preconcurrency @objc override final public func loadView()
   @_Concurrency.MainActor @preconcurrency @objc override final public func viewDidLoad()
