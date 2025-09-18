@@ -517,6 +517,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "SwiftUI",
         "printedName": "SwiftUI",
         "declKind": "Import",
@@ -602,6 +612,16 @@
         "printedName": "AVFoundation",
         "declKind": "Import",
         "moduleName": "FlyreelCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FlyreelCamera",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1205,7 +1225,7 @@
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Common\/Managers\/CameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 1359,
+      "offset": 1383,
       "length": 22,
       "value": "\"camera_session_queue\""
     },
@@ -1476,74 +1496,130 @@
       "value": "\"Cancel tapped\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 71,
       "length": 6,
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 110,
       "length": 6,
       "value": "\"help\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 151,
       "length": 16,
       "value": "\"turn flash off\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 201,
       "length": 15,
       "value": "\"turn flash on\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 251,
       "length": 12,
       "value": "\"take photo\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 297,
       "length": 14,
       "value": "\"record video\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 22,
       "value": "\"stop recording video\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 401,
       "length": 8,
       "value": "\"retake\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 444,
       "length": 8,
       "value": "\"upload\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/Accessibility.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Accessibility.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 13,
       "value": "\"view finder\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 184,
+      "length": 15,
+      "value": "\"cancel_button\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 254,
+      "length": 13,
+      "value": "\"help_button\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 328,
+      "length": 19,
+      "value": "\"permissions_alert\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 402,
+      "length": 13,
+      "value": "\"photo_label\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 472,
+      "length": 15,
+      "value": "\"retake_button\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 546,
+      "length": 17,
+      "value": "\"settings_button\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 620,
+      "length": 15,
+      "value": "\"upload_button\""
+    },
+    {
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Localization.swift",
+      "kind": "StringLiteral",
+      "offset": 690,
+      "length": 13,
+      "value": "\"video_label\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Common\/UI\/BlurView.swift",
@@ -1575,244 +1651,209 @@
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 758,
-      "length": 7,
-      "value": "\"Photo\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 834,
+      "offset": 850,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 910,
+      "offset": 926,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 1134,
-      "length": 8,
-      "value": "\"Cancel\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1212,
+      "offset": 1245,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 1488,
-      "length": 6,
-      "value": "\"Help\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1564,
+      "offset": 1614,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1946,
+      "offset": 1996,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 1989,
+      "offset": 2039,
       "length": 15,
       "value": "\"capture_photo\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2070,
+      "offset": 2120,
       "length": 2,
       "value": "72"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2095,
+      "offset": 2145,
       "length": 2,
       "value": "72"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2334,
+      "offset": 2384,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 2377,
+      "offset": 2427,
       "length": 16,
       "value": "\"flash_off_icon\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2459,
+      "offset": 2509,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2484,
+      "offset": 2534,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2673,
+      "offset": 2723,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2735,
+      "offset": 2785,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6912,
+      "offset": 6962,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7012,
+      "offset": 7062,
       "length": 2,
       "value": "37"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7015,
+      "offset": 7065,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7027,
+      "offset": 7077,
       "length": 2,
       "value": "39"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7030,
+      "offset": 7080,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7041,
+      "offset": 7091,
       "length": 2,
       "value": "43"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7044,
+      "offset": 7094,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7056,
+      "offset": 7106,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "Array",
-      "offset": 7169,
+      "offset": 7219,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7301,
+      "offset": 7351,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 7600,
-      "length": 8,
-      "value": "\"Retake\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 7658,
+      "offset": 7725,
       "length": 19,
       "value": "\"photo_retake_icon\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 7994,
-      "length": 8,
-      "value": "\"Upload\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Photo\/PhotoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 8052,
+      "offset": 8136,
       "length": 19,
       "value": "\"photo_upload_icon\""
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/UIView+constraints.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Common\/Extensions\/UIView+constraints.swift",
       "kind": "IntegerLiteral",
       "offset": 780,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/UIView+constraints.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Common\/Extensions\/UIView+constraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1052,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/UIView+constraints.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Common\/Extensions\/UIView+constraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1333,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Utils\/UIView+constraints.swift",
+      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Common\/Extensions\/UIView+constraints.swift",
       "kind": "IntegerLiteral",
       "offset": 1615,
       "length": 1,
@@ -1869,253 +1910,218 @@
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 641,
-      "length": 7,
-      "value": "\"Video\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 717,
+      "offset": 733,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 793,
+      "offset": 809,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1068,
+      "offset": 1084,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1127,
+      "offset": 1143,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 1262,
-      "length": 8,
-      "value": "\"Cancel\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1340,
+      "offset": 1373,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 1684,
-      "length": 6,
-      "value": "\"Help\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1760,
+      "offset": 1810,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2141,
+      "offset": 2191,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 2184,
+      "offset": 2234,
       "length": 22,
       "value": "\"start_recording_icon\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2272,
+      "offset": 2322,
       "length": 2,
       "value": "72"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2297,
+      "offset": 2347,
       "length": 2,
       "value": "72"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2466,
+      "offset": 2516,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 2509,
+      "offset": 2559,
       "length": 16,
       "value": "\"flash_off_icon\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2591,
+      "offset": 2641,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2616,
+      "offset": 2666,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2805,
+      "offset": 2855,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2867,
+      "offset": 2917,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7920,
+      "offset": 7970,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7972,
+      "offset": 8022,
       "length": 2,
       "value": "37"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7975,
+      "offset": 8025,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7987,
+      "offset": 8037,
       "length": 2,
       "value": "39"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7990,
+      "offset": 8040,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8001,
+      "offset": 8051,
       "length": 2,
       "value": "43"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8004,
+      "offset": 8054,
       "length": 3,
       "value": "255"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8016,
+      "offset": 8066,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8184,
+      "offset": 8234,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 8581,
-      "length": 8,
-      "value": "\"Retake\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 8639,
+      "offset": 8706,
       "length": 19,
       "value": "\"photo_retake_icon\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "StringLiteral",
-      "offset": 9073,
-      "length": 8,
-      "value": "\"Upload\""
-    },
-    {
-      "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
-      "kind": "StringLiteral",
-      "offset": 9131,
+      "offset": 9215,
       "length": 19,
       "value": "\"photo_upload_icon\""
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12265,
+      "offset": 12349,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12421,
+      "offset": 12505,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12550,
+      "offset": 12634,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/webbbr01\/Workspace\/flyreel-camera-core-ios\/flyreel-camera\/Video\/VideoCameraView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12626,
+      "offset": 12710,
       "length": 2,
       "value": "16"
     },
