@@ -1,4 +1,3 @@
 framework module FlyreelCamera {
   header "FlyreelCamera-Swift.h"
-  requires objc
 }
