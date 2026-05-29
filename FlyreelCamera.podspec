@@ -1,14 +1,14 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FlyreelCamera"
-  spec.version      = "0.0.7"
+  spec.version      = "0.0.8"
   spec.summary      = "Flyreel Camera."
   spec.homepage     = "https://risk.lexisnexis.com/products/flyreel"
 
   spec.license      = {
     :type => 'MIT',
     :text => <<-LICENSE
-    Copyright (c) 2023 Flyreel
+    Copyright (c) 2026 Flyreel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
