@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3j53eK4fVSlb0wkAyUYQkIWdsBU=
+		mIQi/61XhFs85NJs8U7h06OpITM=
 		</data>
 		<key>Gilroy-Medium.otf</key>
 		<data>
@@ -30,15 +30,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5YPxWRaXQcGPFb612Xj+h9myzWg=
+		FcF7T05NLSELkW1n4MIXC5fX+HA=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0l1btiFfumd5OPo01C5oaYuoTA4=
+		kdGEBqtS+Kj6FEUKLdwFpyIkmZk=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		o8s08T8qhaXIn/xgvesd2Ce/cy8=
+		PEzPae7Xnr7Zm2QWPDTYx0LXzBM=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		o8s08T8qhaXIn/xgvesd2Ce/cy8=
+		PEzPae7Xnr7Zm2QWPDTYx0LXzBM=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5l1NjIuvF2pABf1sax1AkFYPboI=
+		aVGiosIlnBlXRblL1ZKY2c0Cm9M=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		0l1btiFfumd5OPo01C5oaYuoTA4=
+		kdGEBqtS+Kj6FEUKLdwFpyIkmZk=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pnrdS7YrbQbdLUmrt70fUMtVcGw=
+		mOonW5+qppsafbk1vl745ysmXFk=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pnrdS7YrbQbdLUmrt70fUMtVcGw=
+		mOonW5+qppsafbk1vl745ysmXFk=
 		</data>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tt4YpnMu1oYdJsfwQJfhbMDJrI0=
+		lGRQNRhF+/gcCG2WePiTAzJ5tPY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -96,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3r96tbfsueW4PzAzogUVhnoylYJkbOPKfXUUcKp0ZDE=
+			O/5m5FHAdIahmQilxEKjLnnr52nEfXrFhEKIwAXUiq4=
 			</data>
 		</dict>
 		<key>Gilroy-Medium.otf</key>
@@ -138,14 +138,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MS4GDjcac7xm/znzDNXzKLDvLoLDyufAt5iVyCIMq1U=
+			r1VX8/KL5x/qz2P7SjF4iV/+Ze98v57boF7wxte2HZQ=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylYxHAYh2e+s28K0oYyTT8HAqNWRp2d1GwmKRzBKm5c=
+			etMWGDcKjRomO7+/hxO5QbP+M7bQLVfrZBO8zHg84tc=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -159,28 +159,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ylYxHAYh2e+s28K0oYyTT8HAqNWRp2d1GwmKRzBKm5c=
+			etMWGDcKjRomO7+/hxO5QbP+M7bQLVfrZBO8zHg84tc=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Z1pDQ1FI5Bcv/+GHSCzaJ23Q7V9wFuNPBh9xW6F9Wo=
+			ymG5DgrN3vQShzz8k7qQnbFSoMYDcP68DZK8Z2+MLBk=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MS4GDjcac7xm/znzDNXzKLDvLoLDyufAt5iVyCIMq1U=
+			r1VX8/KL5x/qz2P7SjF4iV/+Ze98v57boF7wxte2HZQ=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qlDcRgP7fRPRtjXJ5t5hwF0d1QTZgIyTX91busvhQjA=
+			EnddZDL9JLqgm1x23i2+4Urh/zJO/W/pI7lsQGlRixg=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -194,14 +194,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qlDcRgP7fRPRtjXJ5t5hwF0d1QTZgIyTX91busvhQjA=
+			EnddZDL9JLqgm1x23i2+4Urh/zJO/W/pI7lsQGlRixg=
 			</data>
 		</dict>
 		<key>Modules/FlyreelCamera.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hk2ydn0TKuEv8IlTgdMBfJDVCgEa33NRLUbPg/PSWW8=
+			LigepYk+0H6Q8GhxovaBSbs6vW+VlthUfsmx2xU/SlU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

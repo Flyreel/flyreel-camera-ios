@@ -1185,6 +1185,20 @@
       },
       {
         "kind": "Import",
+        "name": "CoreMotion",
+        "printedName": "CoreMotion",
+        "declKind": "Import",
+        "moduleName": "FlyreelCamera"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FlyreelCamera"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -2236,6 +2250,20 @@
       "offset": 810,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-camera-core-ios\/flyreel-camera\/Common\/Managers\/MotionOrientation.swift",
+      "kind": "StringLiteral",
+      "offset": 694,
+      "length": 33,
+      "value": "\"MotionOrientation.Accelerometer\""
+    },
+    {
+      "filePath": "\/Users\/whitej00\/Projects\/flyreel-camera-core-ios\/flyreel-camera\/Common\/Managers\/MotionOrientation.swift",
+      "kind": "IntegerLiteral",
+      "offset": 820,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/whitej00\/Library\/Developer\/Xcode\/DerivedData\/flyreel-camera-bluqbidnbhycschikmibrfyprhur\/Build\/Intermediates.noindex\/ArchiveIntermediates\/flyreel-camera\/IntermediateBuildFilesPath\/flyreel-camera.build\/Release-iphonesimulator\/flyreel-camera.build\/DerivedSources\/GeneratedAssetSymbols.swift",
